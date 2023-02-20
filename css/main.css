@@ -153,6 +153,28 @@ footer {
     height: 200px;
 }
 
+footer .social-icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+footer .social-icons p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer .social-icons i {
+    font-size: 2em;
+    margin: 10px;
+    color:#00ff00;
+  }
+
+  footer li {
+    
+  }
+
 li {
     list-style-type: square;
 }
