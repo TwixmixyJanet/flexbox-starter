@@ -157,22 +157,19 @@ footer .social-icons {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: auto;
   }
-
-footer .social-icons p {
+  
+  footer .social-icons p {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-
+  
   footer .social-icons i {
-    font-size: 2em;
+    font-size: 1em;
     margin: 10px;
     color:#00ff00;
-  }
-
-  footer li {
-    
   }
 
 li {
